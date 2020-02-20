@@ -4,7 +4,7 @@ Find out how many reposts under any channel content or under all your account co
 
 # Usage
 
-Reposts on all content under your account
+Reposts on all content under your account:
 
 printAll()
 
